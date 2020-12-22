@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shopping-buding",
+  "private_key_id": "bd5cf4a2f505780974be0b627a64ba92f48d910f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+P/0V86z0YUfE\nBNpq+hFs3QaM1KW5BVkwSXqAlgmdHAL+weTziGVoTswmCXNYnDh63xFzOYpI7Ycj\nCdOK1YSnNooliPIO3bQu4F8uV8SHDSYc3wBK2oblXzKxqJfGwrkkE4wamHEbgqcV\nLEej/c9hYNz6aZtMuwy9HAqlc3BNEKqyA5FVNQIkK20sGQ+9EWJYxu6+uIu1+bnj\nQLZslNFwSjxnq7B3+MkrxHq/rV+efV4mqJFacCicnY0NVuajEm1fA8RheM1vv3jB\nGQNYcPEITjaAjwXpLjiPiT15NGRIhkmu4eBCfyqmpeveWJODMKtXEOl/EalRzCAA\n7IUgCGgLAgMBAAECggEAVlxqsOvP35FHSAph8by5az776bLf1ZjBb0NzmepBy/E6\nxNVUbl5EljBqyHtywk8L7m7TF4iPpuI3/WZJAlVBZbxCwp4jLy9hywOsATfzLNEB\ns4phMhl3sahgtTfQSff7ng5Hg40ejvvkh551mNIusMgNF5kX16FzO2b+yDMaT8iQ\nDffcMPoNjkyGEEN5UXQFQCH/dxwXJGzX4Oyk+QTAwFFbsVvrtejfpS5QS6mc/l1v\n1qZcUf7Q/0KclpHZqidL3awzutB70RqIotbSmt72dXiABZZWnIC3eq9/H9T5QjXq\nGoF5mq7cFprzQpmrekqZau4SXUrQluFXe/5bHFdWiQKBgQDk0KEWfFVp8VU7A0zs\ne3riwzOw0C+67cako8vqGaKKwroLxXAfpjk7cpSjuUa5fSjizrFLf1kRqYfroiID\nLUU6EaPIelb67xrVJaNFOk4Sx4HNoQIARWV5sY8z4Gdyars4CcPha9/4vCKcDnkq\nMJQCAzXSCUCRVkv07NiWJD7amQKBgQDU2mkx4YGxx12n2ZucxDCwTAL3bbXDOFnf\nYInnOyR7ENTsfvjRqBTKtB1N+GwxkridQ7dYXwGr4PyiP2O3RtxQs7727ueyiazw\n54nrAUhNXSYLr9qAXTBOCoEj+1rcWhFe33fgLT3yCA3gwMaHYqAj84Mir9XwfdXd\nO6eM4OACQwKBgDOzUDKcdVAyz2c+H6tvWxzRrmRNJfu+rhuVRwXmNOvVg+QVAHim\nPlhIU32K54gR16MnwLemVqG/BI8hWz4MhI/SXId33R9l11JB5tpFik6D9bhYoPMe\nuwb8L7cxBS69HwBSdIgCr+Cr4cYRHx+BSnAJ+aczn/s23ILC4U1Lc0hBAoGASrQR\nAXGszBE1fIhyBfYRRH6Y9+/oQAjR+gTuwVnPduW0ZQA3IZYFHhNSyZ+rkUZ2RrOS\ncJB/jKxc3jCzNYrIHgbHufClHtMVAEOy8uizUHuls6pXXH/YSTuEkXVRMU7nE84I\nS4R1XjGXdU8THkbt/1AisRTXWB1B5vBd4KK32/MCgYBAS8CXguKe485mmwf0jmi1\nEcguCfqdcuyfxzEUARkeDaYbAFuSiX9BWSdMwQYsPnZfyahE6xbqYvA40zWffiux\nUGOGEUHSzxqk1EuJ3vsqtSGSA891N/6kkJw7cEAyl6+FEOyCpqhJziXQtE7wJJ24\nqsiX2Xo0OFJ/STxHdqMPCQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gx500@shopping-buding.iam.gserviceaccount.com",
+  "client_id": "101320320764484841050",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gx500%40shopping-buding.iam.gserviceaccount.com"
+}
